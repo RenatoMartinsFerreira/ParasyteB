@@ -1,0 +1,1 @@
+export HomeB from './HomeB';
