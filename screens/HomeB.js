@@ -38,7 +38,7 @@ const HomeA: () => Node = () => {
           style={{
             backgroundColor: Colors.white,
           }}>
-          <Text>Dev teste de alteração na main</Text>
+          <Text>Dev teste de alteração na main 2</Text>
         </View>
       </ScrollView>
     </SafeAreaView>
